@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <circle cx="512" cy="490" r="280" fill="#315CFF"/>
+  <text x="512" y="570" font-family="Arial Black, sans-serif" font-size="300" font-weight="900" fill="#FFFFFF" text-anchor="middle">₱</text>
+  <circle cx="700" cy="270" r="55" fill="#36D6C3"/>
+</svg>
